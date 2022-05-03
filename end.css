@@ -267,7 +267,7 @@ body p:hover {
     color: #08192D;
 }
 .news b::before{
-    content: '❄';
+    content: '➽';
     color: #828282;
 }
 .ctn-box{
